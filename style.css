@@ -58,3 +58,10 @@ body{
     cursor:pointer;
     display:none;
 }
+
+.correct{
+    background-color: rgb(24, 207, 24);
+}
+.incorrect{
+    background-color:rgb(229, 71, 71);
+}
